@@ -1,1 +1,3 @@
-# Hackintosh EFI - OpenCore 0.6.2
+# Hackintosh EFI
+OpenCore 0.8.9
+macOS Ventura
